@@ -25,8 +25,8 @@
 
   <header class="bg-primary text-white text-center py-5">
     <div class="container">
-      <h1>Welcome to the [Your Group Name]</h1>
-      <p class="lead">Researching [your field] at [your institution]</p>
+      <h1>Welcome to the Thermo-Fluids Group</h1>
+      <p class="lead">Researching Thermo-Fluids at TU Dublin</p>
     </div>
   </header>
 
