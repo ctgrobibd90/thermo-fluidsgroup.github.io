@@ -1,0 +1,8 @@
+title: Your Research Group
+email: research@university.edu
+description: >- 
+  We are a group at [Your Institution] working on cutting-edge research in AI, ML, and data science.
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://yourgroup.github.io"
+theme: minima # or choose a minimal custom theme
+markdown: kramdown
