@@ -60,12 +60,12 @@ h1, h2 {
     <h2>Meet the Team</h2>
     <div class="row">
       <div class="col-md-4">
-        <img src="assets/images/person1.jpg" class="img-fluid rounded-circle" alt="Name">
+        <img src="assets/images/Photo-MRH.jpg" class="img-fluid rounded-circle" alt="Name">
         <h4>Dr. Alice Smith</h4>
         <p>Principal Investigator</p>
       </div>
       <div class="col-md-4">
-        <img src="assets/images/person2.jpg" class="img-fluid rounded-circle" alt="Name">
+        <img src="assets/images/Photo-MRH.jpg" class="img-fluid rounded-circle" alt="Name">
         <h4>John Doe</h4>
         <p>PhD Student</p>
       </div>
